@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport"
+			content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Dream Wanderer</title>
+		
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<header class="header">
+			<div class="container">
+				<nav class="nav">
+					<a href="index.html" class="logo">
+						<img src="logo.png" alt="">
+					</a>
+					<div class="hamburger-menu">
+						<i class="fas fa-bars"></i>
+						<i class="fas fa-times"></i>
+					</div>
+					<ul class="nav-list">
+						<li class="nav-item">
+							<a href="index.html" class="nav-link" target="blank">Home</a>
+						</li>
+						<li class="nav-item">
+							<a href="photography.html" class="nav-link" target="blank">photography</a>
+						</li>
+						<li class="nav-item">
+							<a href="vlogs.html" class="nav-link" target="blank">Vlogs</a>
+						</li>
+						<li class="nav-item">
+							<a href="playlist.html" class="nav-link" target="blank">Playlist</a>
+						</li>
+						<li class="nav-item">
+							<a href="offers.html" class="nav-link" target="blank">Offers</a>
+						</li>
+						<li class="nav-item">
+							<a href="contact.html" class="nav-link" target="blank">Booking</a>
+						</li>
+						<li class="nav-item">
+							<a href="about.html" class="nav-link" target="blank">About</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<main>
+			<div class="hero">
+				<div class="container">
+					<div class="main-heading">
+						<h1 class="title">Journey</h1>
+						<h2 class="subtitle">Beyond The View</h2>
+					</div>
+					<a class="btn btn-gradient" href="vlogs.html">
+						Explore Now 
+					</a>
+				</div>
+			</div>
+			<div style="margin:150px;color:purple;"><h1>Record The World!</h1>
+  <p>Not only captured but moments can also be recorded so you can visit your past adventures all over again with the same movements
+ and voices,the same scene you recorded,the same feel you captured! Sometimes pictures need voices to express the scenery,to make us feel the view.
+ Here are some tour vlogs, lets enjoy some breathtaking views of this beautiful world.</p>
+</div>
+<div>
+    <div class="box">
+    <div class="desc"><video width="100%" height="100%" controls><source src="pakistan.mp4" type="video/mp4"></video></div>
+    <div class="desc1" style="font-size:20px;"><b>Pakistan Tour In 6 Minutes</b></div>
+    </div>
+
+    <div class="box">
+    <div class="desc"><video width="100%" height="100%" controls><source src="indiatour.mp4" type="video/mp4"></video></div>
+    <div class="desc1" style="font-size:25px;"><b>Incredible India</b></div>
+    </div>
+
+    <div class="box">
+    <div class="desc"><video width="100%" height="100%" controls><source src="turkeytour.mp4" type="video/mp4"></video></div>
+    <div class="desc1" style="font-size:25px;"><b>The Royal Turkey</b></div>
+    </div>
+
+    <div class="box">
+    <div class="desc"><video width="100%" height="100%" controls><source src="nztour.mp4" type="video/mp4"></video></div>
+    <div class="desc1" style="font-size:20px;"><b>Visit New Zealand in 2 Minutes</b></div>
+    </div>
+
+    <div class="box">
+    <div class="desc"><video width="100%" height="100%" controls><source src="norway.mp4" type="video/mp4"></video></div>
+    <div class="desc1" style="font-size:25px;"><b>Wonders of Norway</b></div>
+    </div>
+
+    <div class="box">
+    <div class="desc"><video width="100%" height="100%" controls><source src="finland.mp4" type="video/mp4"></video></div>
+    <div class="desc1" style="font-size:20px;"><b>Finland,The Happiest Country in the World</b></div>
+    </div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+			<section class="footer">
+				<div class="container">
+					<div class="footer-content">
+						<div class="footer-content-brand">
+							<a href="index.html" class="logo">
+								<img class="logo-image" src="logo.png" alt="">
+							</a>
+							<div class="paragraph">
+								In this video we will take a look at the fourth and final part of building a responsive hotel booking website using html and css. Originally this was supposed to be a 5 part series, but I decided to combine part 4 and 5 into one video.
+							</div>
+						</div>
+						<div class="social-media-wrap">
+							<h4 class="footer-heading"> Follow us </h4>
+							<div class="social-media">
+								<a href="#" class="sm-link"><i class="fab fa-twitter"></i></a>
+								<a href="https://m.facebook.com/profile.php?id=102378402053832&paipv=1&_rdr" class="sm-link"><i class="fab fa-facebook-square"></i></a>
+								<a href="https://www.instagram.com/travelix96/" class="sm-link"><i class="fab fa-instagram"></i></a>
+								<a href="#" class="sm-link"><i class="fab fa-pinterest"></i></a>
+								<a href="#" class="sm-link"><i class="fab fa-tripadvisor"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>			
+			</section>
+			
+			
+		</main>
+		<script src="main.js"></script>
+	</body>
+</html>
